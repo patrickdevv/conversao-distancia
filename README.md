@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img alt="Conversão de distancia" title="#Convertedistancia" src="./src/img/termometro.jpg" width="109" height="160" />
+    <img alt="Conversão de distancia" title="#Convertedistancia" src="https://user-images.githubusercontent.com/93482022/139965891-e7c45771-4366-4615-9b63-d7cec0e9eb87.png" width="109" height="160" />
 </h1>
 
 <h4 align="center"> 
