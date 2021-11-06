@@ -27,7 +27,7 @@
 
 ## 💻 Sobre o projeto
 
-Trata-se de uma calculadora para conversão de distancias.
+Trata-se de uma calculadora para conversão de distâncias.
 
 ## 🚀 Como executar o projeto
 
